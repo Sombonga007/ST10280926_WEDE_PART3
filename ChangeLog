@@ -1,1 +1,13 @@
 ##ChangeLog
+
+Removed SignUp/Login from navigation yet when users does not have an account they can still login or sign up 
+Made account center file where users can check or change their account details
+Added enquiries so that users can submit any questions or requests
+Added account center an enquiry file to navigation
+Added google maps at the bottom of the contact page
+Added 'read more' buttons in the resources and community page
+Added more products ont the products page
+Added 'add to cart' buttons on all products
+Added the item counter to display the number of items in the cart
+Added view cart option to view items added to cart
+Added a clear, close, and checkout button to the cart
